@@ -8,6 +8,8 @@ From the Gene Expression Omnibus database, download the repertoire data with the
 
 All other figures are recreated from the intermediate files provided.
 
+Run the Sjogren_code_wrapped_up.ipynb on jupyter notebook to obtain figures.
+
 Dependencies:
 Matplotlib 3.7.5
 Numpy 1.20.1
