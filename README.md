@@ -6,7 +6,9 @@ To recreate figures regarding the total repertoire characteristics (isotypes, cl
 
 From the Gene Expression Omnibus database, download the repertoire data with the accession number GSE308513 and put the HC data and SS data in the asm_file and sjogren_file repectively.
 
-All other figures are recreated from the intermediate files provided.
+The registration of repertoire characteristics wil take up to ten mintes depending on hardware. 
+
+All other figures are recreated from the intermediate files provided and are generated within a minute.
 
 Run the Sjogren_code_wrapped_up.ipynb on jupyter notebook to obtain figures.
 
